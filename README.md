@@ -16,4 +16,16 @@ My solutions and practice for Data Structures &amp; Algorithms on LeetCode.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
