@@ -10,8 +10,6 @@ class Solution:
                 MaxArea=area
             if (height[left]<height[right]):
                 left+=1
-            elif(left==right):
-                pass
             else:
                 right-=1
 
