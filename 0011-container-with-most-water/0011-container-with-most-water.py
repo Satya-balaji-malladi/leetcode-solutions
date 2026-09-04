@@ -5,8 +5,7 @@ class Solution:
         MaxArea=0
         Value=0
         for i in range (len(height)):
-            Value=self.MinValue(left,right,height)
-            area = Value*(right-left)
+            area = min(height[left],height[right])*(right-left)
             if (MaxArea<area):
                 MaxArea=area
             if (height[left]<height[right]):
@@ -17,8 +16,3 @@ class Solution:
                 right-=1
 
         return MaxArea
-    def MinValue(self,left,right,height):
-        if (height[left]<height[right]):
-            return height[left]
-        else:
-            return height[right]
