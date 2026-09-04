@@ -20,6 +20,7 @@ My solutions and practice for Data Structures &amp; Algorithms on LeetCode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,12 @@ My solutions and practice for Data Structures &amp; Algorithms on LeetCode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Satya-balaji-malladi/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
